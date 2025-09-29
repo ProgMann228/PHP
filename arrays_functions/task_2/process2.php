@@ -1,3 +1,7 @@
+/*
+Прошло тесты на codewars
+*/
+
 <?php
 function square($b){
     $c=sqrt((float)$b);
@@ -20,5 +24,6 @@ function is_square($a)
 
 
 ?>
+
 
 
