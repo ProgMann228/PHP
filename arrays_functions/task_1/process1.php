@@ -1,4 +1,6 @@
-
+/*
+Код прошел тест в codewars
+*/
 
 <?php
 
@@ -21,4 +23,5 @@ function capMe(array $arr):array{
 
 }
 ?>
+
 
