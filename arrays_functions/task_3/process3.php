@@ -1,3 +1,5 @@
+/*тесты пройдены*/
+
 <?php
 function uniqueInOrder($iterable){
     $ret=[];
@@ -24,3 +26,4 @@ function uniqueInOrder($iterable){
     return $ret;
 }
 ?>
+
