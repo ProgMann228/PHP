@@ -1,3 +1,5 @@
+/*прошел тесты*/
+
 <?php
 
 class Hero {
@@ -23,3 +25,4 @@ echo "$hero1->name, $hero1->position, $hero1->health, $hero1->damage, $hero1->ex
 echo "$hero2->name, $hero2->position, $hero2->health, $hero2->damage, $hero2->exp";
 */
 ?>
+
