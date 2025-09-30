@@ -1,3 +1,5 @@
+/* для прохождения тестов в codewars необходимо удалить класс Person, тут я решила его оставить*/
+
 <?php
 
 class Person{
@@ -88,3 +90,4 @@ echo $pers2->describe_job();
 echo $pers3->introduce();
 */
 ?>
+
